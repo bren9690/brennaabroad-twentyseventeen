@@ -33,6 +33,7 @@ get_header(); ?>
 
 			endwhile; // End of the loop.
 			?>
+			<div class="wrap page-full-width">
 
 		</main><!-- #main -->
 	</div><!-- #primary -->
